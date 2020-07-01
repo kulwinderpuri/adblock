@@ -1,3 +1,7 @@
+127.0.0.1     oktaku.com
+127.0.0.1     new-incoming.email
+127.0.0.1     realsrv.com
+127.0.0.1     adskeeper.co.uk
 127.0.0.1     yolkexpandgyp.casa
 127.0.0.1     icrypto.media
 127.0.0.1     directdexchange.com
