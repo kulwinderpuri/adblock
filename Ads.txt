@@ -1,3 +1,4 @@
+127.0.0.1     iqoption.com
 127.0.0.1     oktaku.com
 127.0.0.1     new-incoming.email
 127.0.0.1     realsrv.com
