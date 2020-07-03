@@ -1,3 +1,6 @@
+127.0.0.1     infopicked.com
+127.0.0.1     besttraffbutton.com
+127.0.0.1     codexchange.com
 127.0.0.1     iqoption.com
 127.0.0.1     oktaku.com
 127.0.0.1     new-incoming.email
