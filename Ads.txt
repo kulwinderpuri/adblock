@@ -489,3 +489,5 @@
 127.0.0.1      lon3-weblb-wg3.lon3.spotify.com
 127.0.0.1      sto3-weblb-wg4.sto3.spotify.com
 127.0.0.1      weblb-wg.dual-gslb.spotify.com
+127.0.0.1         tsyndicate.com
+127.0.0.1         crptgate.com
