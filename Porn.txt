@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 127.0.0.1        mamamature.com
 127.0.0.1        *.porn
 127.0.0.1        twister.porn
@@ -8,11 +7,10 @@
 127.0.0.1        its.porn
 127.0.0.1        teencumpot.com
 127.0.0.1        youteenporn.net
-127.0.0.1   	 armfull.online
-127.0.0.1   	 pussygirls.pro
-127.0.0.1   	 teensexvideo.tv
-127.0.0.1   	 teenpornvideo.fun
-=======
+127.0.0.1   	   armfull.online
+127.0.0.1   	   pussygirls.pro
+127.0.0.1     	 teensexvideo.tv
+127.0.0.1   	   teenpornvideo.fun
 127.0.0.1        xxxmom.tv
 127.0.0.1        sopornvideos.com
 127.0.0.1        momsexflame.com
@@ -41,7 +39,6 @@
 127.0.0.1	       pussygirls.pro
 127.0.0.1	       teensexvideo.tv
 127.0.0.1	       teenpornvideo.fun
->>>>>>> dc1ba1020185d18ed92bc902d9b77c48720fa537
 127.0.0.1        superchat.live
 127.0.0.1        www.forhertube.com
 127.0.0.1        mydamplips.com
@@ -27821,6 +27818,7 @@
 127.0.0.1        www.www.bangbrosblackporn.com
 127.0.0.1        www.www.babeaddicts.com
 127.0.0.1        www.www.justdanica.com
+<<<<<<< HEAD
 127.0.0.1         momxmature.com
 127.0.0.1         trymilfporn.com
 127.0.0.1         mamamature.com
@@ -27851,3 +27849,30 @@
 127.0.0.1         newbigtube.com
 127.0.0.1         letubeusa.com
 127.0.0.1         porn2018.com
+=======
+127.0.0.1         momxmature.com
+127.0.0.1         trymilfporn.com
+127.0.0.1         mamamature.com
+127.0.0.1         xxxmature.tube
+127.0.0.1         promatureporn.com
+127.0.0.1         xsex.biz
+127.0.0.1         tube2019.com
+127.0.0.1         xxxvideo.best
+127.0.0.1         matureporn.host
+127.0.0.1         girl-fuck.pro
+127.0.0.1         mom-xxx.pro
+127.0.0.1         momxvideos.net
+127.0.0.1         analstepmom.com
+127.0.0.1         xhamster3.desi
+127.0.0.1         redporn.tv
+127.0.0.1         pornvideosfuck.com
+127.0.0.1         josex.net
+127.0.0.1         porngo.com
+127.0.0.1         sopornmovies.com
+127.0.0.1         indianhunt.com
+127.0.0.1         pornhail.com
+127.0.0.1         xhamster3.desi
+127.0.0.1         pornhdin.com
+127.0.0.1         xxxporn.su
+127.0.0.1         brazzers3x.me
+>>>>>>> b16dc0ab898887be245278cd59b3bc6922730597
