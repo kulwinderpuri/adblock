@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 127.0.0.1        mamamature.com
 127.0.0.1        *.porn
 127.0.0.1        twister.porn
@@ -8,11 +7,10 @@
 127.0.0.1        its.porn
 127.0.0.1        teencumpot.com
 127.0.0.1        youteenporn.net
-127.0.0.1   	 armfull.online
-127.0.0.1   	 pussygirls.pro
-127.0.0.1   	 teensexvideo.tv
-127.0.0.1   	 teenpornvideo.fun
-=======
+127.0.0.1   	   armfull.online
+127.0.0.1   	   pussygirls.pro
+127.0.0.1     	 teensexvideo.tv
+127.0.0.1   	   teenpornvideo.fun
 127.0.0.1        xxxmom.tv
 127.0.0.1        sopornvideos.com
 127.0.0.1        momsexflame.com
@@ -41,7 +39,6 @@
 127.0.0.1	       pussygirls.pro
 127.0.0.1	       teensexvideo.tv
 127.0.0.1	       teenpornvideo.fun
->>>>>>> dc1ba1020185d18ed92bc902d9b77c48720fa537
 127.0.0.1        superchat.live
 127.0.0.1        www.forhertube.com
 127.0.0.1        mydamplips.com
