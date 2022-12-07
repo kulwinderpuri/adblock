@@ -52,7 +52,6 @@
 127.0.0.1         xxxporn.su
 127.0.0.1         xxxvideo.best
 127.0.0.1         yourbdsmtube.com
-127.0.0.1        *.porn
 127.0.0.1        007milf.com
 127.0.0.1        0xxx.ws
 127.0.0.1        1000londonescorts.com
